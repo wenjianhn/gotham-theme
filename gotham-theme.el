@@ -169,7 +169,7 @@ depending on DISPLAY for keys which are either :foreground or
    (mode-line :foreground base5 :background base2 :box nil)
    (mode-line-inactive :foreground base4 :background base1 :box nil)
    (mode-line-highlight :foreground base6)
-   (mode-line-buffer-id :weight bold)
+   (mode-line-buffer-id :foreground cyan)
 
    ;; customize
    (custom-button :foreground base4 :box t)
